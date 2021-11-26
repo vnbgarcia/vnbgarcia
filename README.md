@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello Everyone, I'm Vinicius!! 👨‍💻
 
-<!--
-**ViniciusB-Garcia/ViniciusB-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Back-End Developer
 
-Here are some ideas to get you started:
+📍 Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 Graduating in System Analisys and Development
+
+❤️ Lover of Technology
+
+📫 viniciusbgarcia.dev@gmail.com
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ViniciusB-Garcia)](https://github.com/ViniciusB-Garcia) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-b-garcia/)]( https://www.linkedin.com/in/vinicius-b-garcia/)
+
+## Languages and stats
+
+[![ViniciusB-Garcia GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusB-Garcia)](https://github.com/ViniciusB-Garcia/github-readme-stats) 
+![ViniciusB-Garcia GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusB-Garcia)
+
