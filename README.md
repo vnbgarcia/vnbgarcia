@@ -20,4 +20,4 @@
 [![ViniciusB-Garcia GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusB-Garcia)](https://github.com/ViniciusB-Garcia/github-readme-stats) 
 ![ViniciusB-Garcia GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusB-Garcia)
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ViniciusB-Garcia/ViniciusB-Garcia/blob/output/github-contribution-grid-snake.svg)
