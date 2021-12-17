@@ -1,4 +1,6 @@
-### Hello Everyone, I'm Vinicius!! 👨‍💻
+### Hello World, I'm Vinicius! 👨‍💻
+
+##
 
 💻 Future Full-Stack Developer
 
@@ -10,12 +12,24 @@
 
 📫 viniciusbgarcia.dev@gmail.com
 
-## About me
+## Contact me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ViniciusB-Garcia)](https://github.com/ViniciusB-Garcia) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-b-garcia/)]( https://www.linkedin.com/in/vinicius-b-garcia/)
+<a href="https://www.linkedin.com/in/vinicius-b-garcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:viniciusbgarcia.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-## Languages and stats
+## Languages
 
-[![ViniciusB-Garcia GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusB-Garcia)](https://github.com/ViniciusB-Garcia/github-readme-stats) 
-![ViniciusB-Garcia GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusB-Garcia)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+## Stats
+
+<div align="center">
+  <a href="https://github.com/ViniciusB-Garcia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusB-Garcia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusB-Garcia&layout=compact&langs_count=7&theme=dark"/>
+</div>
