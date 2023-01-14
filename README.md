@@ -1,11 +1,11 @@
 <h1 align="center"> Hello World, I'm Vinicius! 👨‍💻 </h1>
 
 
-💻 Future Full-Stack Developer
+💻 Future Web Developer
 
 📍 Brazil
 
-👨‍🎓 Graduating in System Analisys and Development
+👨‍🎓 Graduated in System Analisys and Development
 
 ❤️ Lover of Technology
 
