@@ -1,6 +1,5 @@
 <h1 align="center"> Hello World, I'm Vinicius! 👨‍💻 </h1>
 
-
 💻 Future Web Developer
 
 📍 Brazil
@@ -20,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/ViniciusB-Garcia">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniciusB-Garcia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusB-Garcia&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=ViniciusB-Garcia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusB-Garcia&layout=compact&theme=tokyonight">
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -30,5 +29,5 @@
   <img align="center" alt="Vinicius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Vinicius-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Vinicius-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Vinicius-Cplusplus" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+  <img align="center" alt="Vinicius-Cplusplus" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
