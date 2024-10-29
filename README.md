@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World, I'm Vinicius! 👨‍💻 </h1>
 
-💻 Future Developer
+💻 Future Front-end Developer
 
 📍 São Paulo, Brazil
 
